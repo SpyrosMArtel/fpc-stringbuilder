@@ -13,7 +13,8 @@ type TStringBuilder = class
     destructor Destroy; override;
 
   private
-    fData : array of AnsiString;
+    //fData : array of AnsiString;
+    fData   : PChar;
     fCapacity, fMaxCapacity, fLength : Integer;
     function GetCapacity : Integer;
     function GetMaxCapacity : Integer;
@@ -23,6 +24,8 @@ type TStringBuilder = class
     procedure SetMaxCapacity(const Value : Integer);
     procedure SetLength(const Value : Integer);
     procedure SetChar(const index : Integer; const Value : char);
+    procedure Grow();
+    procedure Shrink();
 
   public
     property Capacity: Integer read GetCapacity write SetCapacity;
