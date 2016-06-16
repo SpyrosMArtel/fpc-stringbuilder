@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="31">
+      <Unit0>
+        <Filename Value="tstringbuilder_test.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="30"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="tstringbuildercases.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="59" Y="12"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="TStringBuilder\stringbuilder.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="313"/>
+        <CursorPos Y="333"/>
+        <UsageCount Value="30"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="TStringBuilder\stringbuilderh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="14" Y="50"/>
+        <UsageCount Value="30"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="TStringBuilder\ustringbuilder.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6" Y="8"/>
+        <UsageCount Value="30"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\inc\mathh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="68"/>
+        <CursorPos X="14" Y="89"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\inc\innr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="92"/>
+        <CursorPos X="4" Y="113"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\objpas\sysutils\syshelph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="209"/>
+        <CursorPos X="14" Y="231"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="175"/>
+        <CursorPos X="23" Y="197"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\lazarus\fptest\src\FPCUnitCompatibleInterface.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="146"/>
+        <CursorPos X="56" Y="184"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\3.0.1\packages\regexpr\src\regexpr.pas"/>
+        <UnitName Value="RegExpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3943"/>
+        <CursorPos X="26" Y="3970"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\win\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="8"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="135"/>
+        <CursorPos X="20" Y="171"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2680"/>
+        <CursorPos X="23" Y="2700"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\objpas\sysutils\syssr.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\objpas\sysutils\syshelp.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1030"/>
+        <CursorPos X="24" Y="1066"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\fpc\3.0.1\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="87"/>
+        <CursorPos X="3" Y="109"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\..\lazarus\fptest\src\TestFramework.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2110"/>
+        <CursorPos Y="2134"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\lazarus\fptest\src\TestFrameworkProxy.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="425"/>
+        <CursorPos X="42" Y="436"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\lazarus\fptest\src\LCL\guitestrunner.pas"/>
+        <UnitName Value="GuiTestRunner"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1812"/>
+        <CursorPos Y="1848"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus\lcl\include\containedaction.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="68"/>
+        <CursorPos Y="100"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\lcl\include\customaction.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="225"/>
+        <CursorPos Y="247"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1432"/>
+        <CursorPos Y="1455"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\lcl\include\toolbutton.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="141"/>
+        <CursorPos Y="162"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5363"/>
+        <CursorPos Y="5384"/>
+        <UsageCount Value="10"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="98"/>
+        <CursorPos Y="123"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2535"/>
+        <CursorPos Y="2556"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="345"/>
+        <CursorPos Y="366"/>
+        <UsageCount Value="10"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="..\stringbuilder.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\stringbuilderh.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\ustringbuilder.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit30>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="181" Column="22" TopLine="151"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="178" Column="8" TopLine="159"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="183" Column="3" TopLine="159"/>
+      </Position3>
+      <Position4>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="181" Column="42" TopLine="160"/>
+      </Position4>
+      <Position5>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="183" Column="26" TopLine="161"/>
+      </Position5>
+      <Position6>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="182" TopLine="161"/>
+      </Position6>
+      <Position7>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="183" TopLine="161"/>
+      </Position7>
+      <Position8>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="184" TopLine="161"/>
+      </Position8>
+      <Position9>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="185" TopLine="161"/>
+      </Position9>
+      <Position10>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="186" TopLine="161"/>
+      </Position10>
+      <Position11>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="187" TopLine="161"/>
+      </Position11>
+      <Position12>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="188" TopLine="161"/>
+      </Position12>
+      <Position13>
+        <Filename Value="tstringbuildercases.pas"/>
+        <Caret Line="182" TopLine="161"/>
+      </Position13>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
